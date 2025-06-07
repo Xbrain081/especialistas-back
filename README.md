@@ -38,3 +38,6 @@ DELETE /especialistas/:id
 (No borra, solo cambia activo = false)
 
 
+
+DANIEL ESTEBAN IBAGUE AMAYA 2863722
+
